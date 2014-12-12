@@ -12,7 +12,7 @@ Thanks : https://github.com/daimajia
 
 
 The App:<br>
-<img src='https://github.com/lj654548718/HoverAniamtion/blob/master/Demos/imgs/show0.png'/>
+<img width='240px' src='https://github.com/lj654548718/HoverAniamtion/blob/master/Demos/imgs/show0.png'/>
 
 
 
