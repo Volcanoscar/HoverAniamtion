@@ -11,8 +11,8 @@ Thanks : https://github.com/daimajia
 (This is my first github project, if I accidentally offend you, I feel sorry and I will delete the files immediate)
 
 
-The App:
-![](https://github.com/lj654548718/HoverAniamtion/blob/master/Demos/imgs/show0.png)
+The App:<br>
+<img src='https://github.com/lj654548718/HoverAniamtion/blob/master/Demos/imgs/show0.png'/>
 
 
 
